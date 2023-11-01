@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BC6D3,100:2596BE&height=200&section=header&text=Welcome!&fontSize=70&fontColor=ffff&fontAlignY=40&desc=YeongJu's%20Github!&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BC6D3,100:2596BE&height=200&section=header&text=Frontend-Developer!&fontSize=70&fontColor=ffff&fontAlignY=40&desc=SeongYeongJu&animation=fadeIn" />
 </p>
 
 <!-- <h3 align="center">😉Hi, I'm YeongJu!</h3>
@@ -16,7 +16,7 @@ I really want to learn more and more and more....! <br>
 
 </p> -->
 
-<h3 align="center"><b>Tech Stack</b></h3>
+<!-- <h3 align="center"><b>Tech Stack</b></h3> -->
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp-->
