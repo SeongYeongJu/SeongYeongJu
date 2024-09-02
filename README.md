@@ -33,3 +33,6 @@ I really want to learn more and more and more....! <br>
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeongYeongJu&layout=compact&theme=dracula" /> </p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/1882c0d7-7c30-4f13-8ea9-6a133d29eae0" /></p>
+
